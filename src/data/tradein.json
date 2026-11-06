@@ -1,0 +1,258 @@
+{
+  "categories": [
+    {
+      "id": "celular",
+      "label": "Celular",
+      "description": "Smartphones Android e iPhone",
+      "models": [
+        {
+          "id": "iphone-14-pro",
+          "brand": "Apple",
+          "label": "iPhone 14 Pro",
+          "year": 2022,
+          "storages": [
+            { "label": "128 GB", "base": 3200 },
+            { "label": "256 GB", "base": 3500 },
+            { "label": "512 GB", "base": 3900 }
+          ]
+        },
+        {
+          "id": "iphone-13",
+          "brand": "Apple",
+          "label": "iPhone 13",
+          "year": 2021,
+          "storages": [
+            { "label": "128 GB", "base": 2100 },
+            { "label": "256 GB", "base": 2350 },
+            { "label": "512 GB", "base": 2600 }
+          ]
+        },
+        {
+          "id": "iphone-12",
+          "brand": "Apple",
+          "label": "iPhone 12",
+          "year": 2020,
+          "storages": [
+            { "label": "64 GB", "base": 1500 },
+            { "label": "128 GB", "base": 1700 },
+            { "label": "256 GB", "base": 1900 }
+          ]
+        },
+        {
+          "id": "iphone-11",
+          "brand": "Apple",
+          "label": "iPhone 11",
+          "year": 2019,
+          "storages": [
+            { "label": "64 GB", "base": 1050 },
+            { "label": "128 GB", "base": 1200 },
+            { "label": "256 GB", "base": 1350 }
+          ]
+        },
+        {
+          "id": "galaxy-s22",
+          "brand": "Samsung",
+          "label": "Galaxy S22",
+          "year": 2022,
+          "storages": [
+            { "label": "128 GB", "base": 1450 },
+            { "label": "256 GB", "base": 1650 }
+          ]
+        },
+        {
+          "id": "galaxy-z-flip4",
+          "brand": "Samsung",
+          "label": "Galaxy Z Flip4",
+          "year": 2022,
+          "storages": [
+            { "label": "128 GB", "base": 1700 },
+            { "label": "256 GB", "base": 1900 }
+          ]
+        },
+        {
+          "id": "galaxy-a54",
+          "brand": "Samsung",
+          "label": "Galaxy A54",
+          "year": 2023,
+          "storages": [
+            { "label": "128 GB", "base": 850 },
+            { "label": "256 GB", "base": 950 }
+          ]
+        },
+        {
+          "id": "moto-edge-40-neo",
+          "brand": "Motorola",
+          "label": "Edge 40 Neo",
+          "year": 2023,
+          "storages": [{ "label": "256 GB", "base": 1200 }]
+        },
+        {
+          "id": "redmi-note-12",
+          "brand": "Xiaomi",
+          "label": "Redmi Note 12",
+          "year": 2023,
+          "storages": [
+            { "label": "128 GB", "base": 600 },
+            { "label": "256 GB", "base": 700 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "notebook",
+      "label": "Notebook",
+      "description": "MacBook, Dell, Lenovo e mais",
+      "models": [
+        {
+          "id": "macbook-pro-m2",
+          "brand": "Apple",
+          "label": "MacBook Pro M2 13\"",
+          "year": 2022,
+          "storages": [
+            { "label": "256 GB", "base": 3800 },
+            { "label": "512 GB", "base": 4300 }
+          ]
+        },
+        {
+          "id": "macbook-air-m1",
+          "brand": "Apple",
+          "label": "MacBook Air M1",
+          "year": 2020,
+          "storages": [
+            { "label": "256 GB", "base": 2600 },
+            { "label": "512 GB", "base": 2900 }
+          ]
+        },
+        {
+          "id": "dell-inspiron-15",
+          "brand": "Dell",
+          "label": "Inspiron 15",
+          "year": 2021,
+          "storages": [
+            { "label": "256 GB", "base": 1700 },
+            { "label": "512 GB", "base": 1900 }
+          ]
+        },
+        {
+          "id": "lenovo-ideapad-3",
+          "brand": "Lenovo",
+          "label": "IdeaPad 3",
+          "year": 2022,
+          "storages": [
+            { "label": "256 GB", "base": 1400 },
+            { "label": "512 GB", "base": 1600 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tablet",
+      "label": "Tablet",
+      "description": "iPad e Galaxy Tab",
+      "models": [
+        {
+          "id": "ipad-air-4",
+          "brand": "Apple",
+          "label": "iPad Air 4",
+          "year": 2020,
+          "storages": [
+            { "label": "64 GB", "base": 1800 },
+            { "label": "256 GB", "base": 2100 }
+          ]
+        },
+        {
+          "id": "ipad-9",
+          "brand": "Apple",
+          "label": "iPad 9ª geração",
+          "year": 2021,
+          "storages": [
+            { "label": "64 GB", "base": 1200 },
+            { "label": "256 GB", "base": 1450 }
+          ]
+        },
+        {
+          "id": "galaxy-tab-s6-lite",
+          "brand": "Samsung",
+          "label": "Galaxy Tab S6 Lite",
+          "year": 2022,
+          "storages": [
+            { "label": "64 GB", "base": 800 },
+            { "label": "128 GB", "base": 950 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smartwatch",
+      "label": "Smartwatch",
+      "description": "Apple Watch e Galaxy Watch",
+      "models": [
+        {
+          "id": "apple-watch-series-7",
+          "brand": "Apple",
+          "label": "Apple Watch Series 7",
+          "year": 2021,
+          "storages": [
+            { "label": "41 mm", "base": 1000 },
+            { "label": "45 mm", "base": 1100 }
+          ]
+        },
+        {
+          "id": "apple-watch-se-2",
+          "brand": "Apple",
+          "label": "Apple Watch SE 2",
+          "year": 2022,
+          "storages": [
+            { "label": "40 mm", "base": 750 },
+            { "label": "44 mm", "base": 850 }
+          ]
+        },
+        {
+          "id": "galaxy-watch-5",
+          "brand": "Samsung",
+          "label": "Galaxy Watch 5",
+          "year": 2022,
+          "storages": [
+            { "label": "40 mm", "base": 650 },
+            { "label": "44 mm", "base": 750 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acessorio",
+      "label": "Acessório",
+      "description": "Fones, caixas de som e carregadores",
+      "models": [
+        {
+          "id": "airpods-pro-2",
+          "brand": "Apple",
+          "label": "AirPods Pro 2",
+          "year": 2023,
+          "storages": [{ "label": "Único", "base": 700 }]
+        },
+        {
+          "id": "galaxy-buds-2-pro",
+          "brand": "Samsung",
+          "label": "Galaxy Buds 2 Pro",
+          "year": 2022,
+          "storages": [{ "label": "Único", "base": 450 }]
+        },
+        {
+          "id": "jbl-flip-6",
+          "brand": "JBL",
+          "label": "JBL Flip 6",
+          "year": 2022,
+          "storages": [{ "label": "Único", "base": 350 }]
+        },
+        {
+          "id": "magsafe",
+          "brand": "Apple",
+          "label": "Carregador MagSafe",
+          "year": 2020,
+          "storages": [{ "label": "Único", "base": 80 }]
+        }
+      ]
+    }
+  ]
+}

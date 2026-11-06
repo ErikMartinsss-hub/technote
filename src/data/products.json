@@ -1,0 +1,932 @@
+[
+  {
+    "id": "iphone-13",
+    "slug": "iphone-13-128gb-azul",
+    "name": "Apple iPhone 13 128GB",
+    "brand": "Apple",
+    "category": "Celulares",
+    "model": "iPhone 13",
+    "storage": "128 GB",
+    "color": "Azul",
+    "screen": "6,1\" Super Retina XDR",
+    "image": "/products/iphone-13.png",
+    "images": ["/products/iphone-13.png", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Mais vendido",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.9,
+    "reviewCount": 214,
+    "sold": 1240,
+    "releaseYear": 2021,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2899,
+        "stock": 6
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 2599,
+        "stock": 12
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 2399,
+        "stock": 9
+      }
+    ],
+    "specs": {
+      "Tela": "6,1\" Super Retina XDR OLED",
+      "Processador": "Apple A15 Bionic",
+      "Armazenamento": "128 GB",
+      "Câmera principal": "12 MP dupla (grande-angular e ultra-angular)",
+      "Câmera frontal": "12 MP",
+      "Bateria": "Até 19 horas de vídeo",
+      "Sistema": "iOS 17",
+      "Conectividade": "5G, Wi-Fi 6, Bluetooth 5.0, NFC"
+    },
+    "highlights": [
+      "Bateria testada com laudo de saúde acima de 80%",
+      "Garantia Tech Note de 12 meses",
+      "Desbloqueado para todas as operadoras",
+      "Acompanha cabo de carregamento compatível"
+    ],
+    "description": "O iPhone 13 entrega o equilíbrio perfeito entre desempenho, câmera e autonomia. Com o chip A15 Bionic, tela Super Retina XDR e sistema de câmera dupla com modo Cinema, é uma escolha excelente para quem quer um iPhone recente pagando menos. Cada aparelho passa por 42 testes de funcionamento antes de chegar até você."
+  },
+  {
+    "id": "iphone-11",
+    "slug": "iphone-11-64gb-preto",
+    "name": "Apple iPhone 11 64GB",
+    "brand": "Apple",
+    "category": "Celulares",
+    "model": "iPhone 11",
+    "storage": "64 GB",
+    "color": "Preto",
+    "screen": "6,1\" Liquid Retina HD",
+    "image": "/products/iphone-11.jpg",
+    "images": ["/products/iphone-11.jpg", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Custo-benefício",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.7,
+    "reviewCount": 487,
+    "sold": 2180,
+    "releaseYear": 2019,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1499,
+        "stock": 4
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1349,
+        "stock": 10
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1199,
+        "stock": 7
+      }
+    ],
+    "specs": {
+      "Tela": "6,1\" Liquid Retina HD",
+      "Processador": "Apple A13 Bionic",
+      "Armazenamento": "64 GB",
+      "Câmera principal": "12 MP dupla (grande-angular e ultra-angular)",
+      "Câmera frontal": "12 MP TrueDepth",
+      "Bateria": "Até 17 horas de vídeo",
+      "Sistema": "iOS 17",
+      "Conectividade": "4G LTE, Wi-Fi 6, Bluetooth 5.0, NFC"
+    },
+    "highlights": [
+      "O iPhone mais vendido da Tech Note",
+      "Garantia Tech Note de 12 meses",
+      "Bateria com saúde verificada",
+      "Desbloqueado para todas as operadoras"
+    ],
+    "description": "O iPhone 11 continua sendo uma porta de entrada inteligente para o ecossistema Apple. Tela ampla, câmera dupla versátil e bateria que aguenta o dia inteiro. Ideal para quem quer um iPhone confiável sem pagar o preço de um lançamento."
+  },
+  {
+    "id": "iphone-12",
+    "slug": "iphone-12-128gb-azul",
+    "name": "Apple iPhone 12 128GB",
+    "brand": "Apple",
+    "category": "Celulares",
+    "model": "iPhone 12",
+    "storage": "128 GB",
+    "color": "Azul",
+    "screen": "6,1\" Super Retina XDR",
+    "image": "/products/iphone-12.png",
+    "images": ["/products/iphone-12.png", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Oferta",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": false,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "sold": 890,
+    "releaseYear": 2020,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2199,
+        "stock": 5
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1999,
+        "stock": 8
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1799,
+        "stock": 6
+      }
+    ],
+    "specs": {
+      "Tela": "6,1\" Super Retina XDR OLED",
+      "Processador": "Apple A14 Bionic",
+      "Armazenamento": "128 GB",
+      "Câmera principal": "12 MP dupla",
+      "Câmera frontal": "12 MP TrueDepth",
+      "Bateria": "Até 17 horas de vídeo",
+      "Sistema": "iOS 17",
+      "Conectividade": "5G, Wi-Fi 6, Bluetooth 5.0, NFC"
+    },
+    "highlights": [
+      "Design compacto com bordas retas",
+      "Tela OLED com HDR",
+      "Garantia Tech Note de 12 meses",
+      "Desbloqueado para todas as operadoras"
+    ],
+    "description": "O iPhone 12 marcou a estreia do 5G e do novo design com bordas retas. Com chip A14 Bionic e tela OLED, ele entrega desempenho de sobra para o dia a dia em um corpo leve e confortável."
+  },
+  {
+    "id": "iphone-14-pro",
+    "slug": "iphone-14-pro-256gb-roxo",
+    "name": "Apple iPhone 14 Pro 256GB",
+    "brand": "Apple",
+    "category": "Celulares",
+    "model": "iPhone 14 Pro",
+    "storage": "256 GB",
+    "color": "Roxo-profundo",
+    "screen": "6,1\" Super Retina XDR ProMotion",
+    "image": "/products/iphone-14-pro.jpg",
+    "images": ["/products/iphone-14-pro.jpg", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Premium",
+    "coupon": null,
+    "offer": false,
+    "bestSeller": false,
+    "rating": 4.9,
+    "reviewCount": 98,
+    "sold": 430,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 3999,
+        "stock": 3
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 3699,
+        "stock": 5
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 3399,
+        "stock": 4
+      }
+    ],
+    "specs": {
+      "Tela": "6,1\" Super Retina XDR com ProMotion 120 Hz",
+      "Processador": "Apple A16 Bionic",
+      "Armazenamento": "256 GB",
+      "Câmera principal": "48 MP tripla com teleobjetiva",
+      "Câmera frontal": "12 MP com autofoco",
+      "Bateria": "Até 23 horas de vídeo",
+      "Sistema": "iOS 17",
+      "Conectividade": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC"
+    },
+    "highlights": [
+      "Dynamic Island e tela sempre ativa",
+      "Câmera de 48 MP com ProRAW",
+      "Garantia Tech Note de 12 meses",
+      "Launch premium revisado por especialistas"
+    ],
+    "description": "Potência de sobra para fotografia, vídeo e jogos. O iPhone 14 Pro traz câmera de 48 MP, tela ProMotion de 120 Hz e o chip A16 Bionic em um dos corpos mais desejados da Apple."
+  },
+  {
+    "id": "galaxy-z-flip4",
+    "slug": "samsung-galaxy-z-flip4-128gb",
+    "name": "Samsung Galaxy Z Flip4 128GB",
+    "brand": "Samsung",
+    "category": "Celulares",
+    "model": "Galaxy Z Flip4",
+    "storage": "128 GB",
+    "color": "Grafite",
+    "screen": "6,7\" Dynamic AMOLED 2X dobrável",
+    "image": "/products/z-flip4.jpg",
+    "images": ["/products/z-flip4.jpg", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Dobrável",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": false,
+    "rating": 4.8,
+    "reviewCount": 67,
+    "sold": 310,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2299,
+        "stock": 2
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 2099,
+        "stock": 6
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1899,
+        "stock": 5
+      }
+    ],
+    "specs": {
+      "Tela": "6,7\" Dynamic AMOLED 2X 120 Hz dobrável",
+      "Tela externa": "1,9\" Super AMOLED",
+      "Processador": "Snapdragon 8+ Gen 1",
+      "Armazenamento": "128 GB",
+      "Câmera principal": "12 MP dupla",
+      "Bateria": "3.700 mAh",
+      "Sistema": "Android 13",
+      "Conectividade": "5G, Wi-Fi 6, Bluetooth 5.2, NFC"
+    },
+    "highlights": [
+      "Formato compacto que cabe no bolso",
+      "FlexCam para fotos em qualquer ângulo",
+      "Garantia Tech Note de 12 meses",
+      "Dobradiça e tela revisadas"
+    ],
+    "description": "O Galaxy Z Flip4 une o charme de um celular dobrável com a praticidade do dia a dia. Compacto fechado, tela ampla aberto e recursos de câmera que aproveitam cada posição."
+  },
+  {
+    "id": "galaxy-s22",
+    "slug": "samsung-galaxy-s22-256gb",
+    "name": "Samsung Galaxy S22 256GB",
+    "brand": "Samsung",
+    "category": "Celulares",
+    "model": "Galaxy S22",
+    "storage": "256 GB",
+    "color": "Preto",
+    "screen": "6,1\" Dynamic AMOLED 2X 120 Hz",
+    "image": "/products/galaxy-s22.jpg",
+    "images": ["/products/galaxy-s22.jpg", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Oferta",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": false,
+    "rating": 4.8,
+    "reviewCount": 142,
+    "sold": 720,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2099,
+        "stock": 4
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1899,
+        "stock": 9
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1699,
+        "stock": 6
+      }
+    ],
+    "specs": {
+      "Tela": "6,1\" Dynamic AMOLED 2X 120 Hz",
+      "Processador": "Snapdragon 8 Gen 1",
+      "Armazenamento": "256 GB",
+      "Câmera principal": "50 MP tripla",
+      "Câmera frontal": "10 MP",
+      "Bateria": "3.700 mAh",
+      "Sistema": "Android 13",
+      "Conectividade": "5G, Wi-Fi 6, Bluetooth 5.2, NFC"
+    },
+    "highlights": [
+      "Compacto com desempenho de topo",
+      "Câmera tripla com modo noturno",
+      "Garantia Tech Note de 12 meses",
+      "Tela AMOLED de 120 Hz"
+    ],
+    "description": "Um dos melhores compactos já feitos pela Samsung. O Galaxy S22 entrega câmera versátil, tela AMOLED de 120 Hz e desempenho de sobra em um formato fácil de usar com uma mão."
+  },
+  {
+    "id": "moto-edge-40-neo",
+    "slug": "motorola-edge-40-neo-256gb",
+    "name": "Motorola Edge 40 Neo 256GB",
+    "brand": "Motorola",
+    "category": "Celulares",
+    "model": "Edge 40 Neo",
+    "storage": "256 GB",
+    "color": "Preto",
+    "screen": "6,55\" pOLED 144 Hz",
+    "image": "/products/edge-40-neo.jpg",
+    "images": ["/products/edge-40-neo.jpg", "/products/lifestyle-phone.jpg"],
+    "imageFit": "contain",
+    "badge": "Lançamento",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.7,
+    "reviewCount": 53,
+    "sold": 260,
+    "releaseYear": 2023,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1699,
+        "stock": 5
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1549,
+        "stock": 11
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1399,
+        "stock": 8
+      }
+    ],
+    "specs": {
+      "Tela": "6,55\" pOLED 144 Hz",
+      "Processador": "MediaTek Dimensity 7030",
+      "Armazenamento": "256 GB",
+      "Câmera principal": "50 MP com OIS",
+      "Câmera frontal": "32 MP",
+      "Bateria": "5.000 mAh com TurboPower 68 W",
+      "Sistema": "Android 13",
+      "Conectividade": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC"
+    },
+    "highlights": [
+      "Tela pOLED de 144 Hz",
+      "Carregamento rápido de 68 W",
+      "Garantia Tech Note de 12 meses",
+      "Resistência à água IP68"
+    ],
+    "description": "Tela fluida, bateria grande e carregamento ultrarrápido. O Edge 40 Neo é uma opção completa para quem consome muito vídeo e joga no celular sem gastar muito."
+  },
+  {
+    "id": "macbook-air-m1",
+    "slug": "macbook-air-m1-2020-256gb",
+    "name": "Apple MacBook Air M1 2020 13.3\" 256GB",
+    "brand": "Apple",
+    "category": "Notebooks",
+    "model": "MacBook Air M1",
+    "storage": "256 GB",
+    "color": "Cinza-espacial",
+    "screen": "13,3\" Retina",
+    "image": "/products/macbook-air.jpg",
+    "images": ["/products/macbook-air.jpg", "/products/lifestyle-laptop.jpg"],
+    "imageFit": "contain",
+    "badge": "Oferta",
+    "coupon": "NOTE10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.9,
+    "reviewCount": 321,
+    "sold": 980,
+    "releaseYear": 2020,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2899,
+        "stock": 3
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 2499,
+        "stock": 7
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 2189,
+        "stock": 5
+      }
+    ],
+    "specs": {
+      "Tela": "13,3\" Retina (2560 x 1600)",
+      "Processador": "Apple M1 (8 núcleos)",
+      "Memória": "8 GB unificada",
+      "Armazenamento": "SSD 256 GB",
+      "Gráficos": "GPU Apple M1 de 7 núcleos",
+      "Bateria": "Até 18 horas",
+      "Sistema": "macOS Sonoma",
+      "Portas": "2x Thunderbolt / USB 4, P2"
+    },
+    "highlights": [
+      "Silencioso: sem ventoinha",
+      "Bateria com saúde verificada",
+      "Teclado, trackpad e tela testados",
+      "Garantia Tech Note de 12 meses"
+    ],
+    "description": "O MacBook Air M1 mudou o jogo dos notebooks: silencioso, leve e com bateria para um dia inteiro de trabalho. Perfeito para estudos, produtividade e criação de conteúdo leve."
+  },
+  {
+    "id": "dell-inspiron-15",
+    "slug": "dell-inspiron-15-i5-512gb",
+    "name": "Dell Inspiron 15 i5 11ª Geração 512GB",
+    "brand": "Dell",
+    "category": "Notebooks",
+    "model": "Inspiron 15",
+    "storage": "512 GB",
+    "color": "Prata",
+    "screen": "15,6\" Full HD",
+    "image": "/products/dell-inspiron.jpg",
+    "images": ["/products/dell-inspiron.jpg", "/products/lifestyle-laptop.jpg"],
+    "imageFit": "cover",
+    "badge": null,
+    "coupon": "NOTE10",
+    "offer": false,
+    "bestSeller": false,
+    "rating": 4.6,
+    "reviewCount": 44,
+    "sold": 180,
+    "releaseYear": 2021,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 2699,
+        "stock": 2
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 2399,
+        "stock": 5
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 2099,
+        "stock": 4
+      }
+    ],
+    "specs": {
+      "Tela": "15,6\" Full HD antirreflexo",
+      "Processador": "Intel Core i5-1135G7",
+      "Memória": "8 GB DDR4",
+      "Armazenamento": "SSD 512 GB",
+      "Gráficos": "Intel Iris Xe",
+      "Bateria": "Até 7 horas",
+      "Sistema": "Windows 11 Home",
+      "Portas": "HDMI, 2x USB-A, USB-C, leitor SD"
+    },
+    "highlights": [
+      "SSD rápido de 512 GB",
+      "Tela grande ideal para trabalho",
+      "Garantia Tech Note de 12 meses",
+      "Windows 11 ativado"
+    ],
+    "description": "Notebook versátil para o trabalho e os estudos, com processador Intel Core i5 de 11ª geração, SSD de 512 GB e tela Full HD de 15,6 polegadas."
+  },
+  {
+    "id": "ipad-9",
+    "slug": "ipad-9-geracao-64gb",
+    "name": "Apple iPad 9ª Geração 64GB",
+    "brand": "Apple",
+    "category": "Tablets",
+    "model": "iPad 9ª geração",
+    "storage": "64 GB",
+    "color": "Prata",
+    "screen": "10,2\" Retina",
+    "image": "/products/ipad.jpg",
+    "images": ["/products/ipad.jpg", "/products/galaxy-tab.jpg"],
+    "imageFit": "cover",
+    "badge": "Mais vendido",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.8,
+    "reviewCount": 188,
+    "sold": 640,
+    "releaseYear": 2021,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1799,
+        "stock": 5
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1599,
+        "stock": 9
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1399,
+        "stock": 6
+      }
+    ],
+    "specs": {
+      "Tela": "10,2\" Retina",
+      "Processador": "Apple A13 Bionic",
+      "Armazenamento": "64 GB",
+      "Câmera principal": "8 MP",
+      "Câmera frontal": "12 MP Ultra-angular com Central de Palco",
+      "Bateria": "Até 10 horas",
+      "Sistema": "iPadOS 17",
+      "Conectividade": "Wi-Fi, Bluetooth 4.2"
+    },
+    "highlights": [
+      "Compatível com Apple Pencil e Smart Keyboard",
+      "Ideal para estudos e anotações",
+      "Garantia Tech Note de 12 meses",
+      "Bateria com saúde verificada"
+    ],
+    "description": "O iPad 9ª geração é a porta de entrada para o universo dos tablets da Apple. Tela Retina de 10,2 polegadas, suporte ao Apple Pencil e bateria para o dia todo de aulas, séries e anotações."
+  },
+  {
+    "id": "galaxy-tab-s6-lite",
+    "slug": "samsung-galaxy-tab-s6-lite-64gb",
+    "name": "Samsung Galaxy Tab S6 Lite 64GB",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "model": "Galaxy Tab S6 Lite",
+    "storage": "64 GB",
+    "color": "Cinza",
+    "screen": "10,4\" LCD",
+    "image": "/products/galaxy-tab.jpg",
+    "images": ["/products/galaxy-tab.jpg", "/products/ipad.jpg"],
+    "imageFit": "cover",
+    "badge": null,
+    "coupon": "TECH10",
+    "offer": false,
+    "bestSeller": false,
+    "rating": 4.7,
+    "reviewCount": 76,
+    "sold": 290,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1299,
+        "stock": 3
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1149,
+        "stock": 7
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 999,
+        "stock": 5
+      }
+    ],
+    "specs": {
+      "Tela": "10,4\" LCD (2000 x 1200)",
+      "Processador": "Snapdragon 720G",
+      "Armazenamento": "64 GB",
+      "Câmera principal": "8 MP",
+      "Câmera frontal": "5 MP",
+      "Bateria": "7.040 mAh",
+      "Sistema": "Android 13",
+      "Conectividade": "Wi-Fi, Bluetooth 5.0"
+    },
+    "highlights": [
+      "Acompanha S Pen",
+      "Tela grande para estudos e streaming",
+      "Garantia Tech Note de 12 meses",
+      "Som estéreo com Dolby Atmos"
+    ],
+    "description": "Tablet leve e versátil com S Pen inclusa. Perfeito para anotar aulas, assistir séries e organizar a rotina com a praticidade do Android."
+  },
+  {
+    "id": "watch-series-7",
+    "slug": "apple-watch-series-7-41mm",
+    "name": "Apple Watch Series 7 41mm",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "model": "Apple Watch Series 7",
+    "storage": "41 mm",
+    "color": "Meia-noite",
+    "screen": "1,7\" Retina sempre ativa",
+    "image": "/products/watch-series-7.jpg",
+    "images": ["/products/watch-series-7.jpg", "/products/lifestyle-watch.jpg"],
+    "imageFit": "contain",
+    "badge": "Oferta",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": false,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "sold": 350,
+    "releaseYear": 2021,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1599,
+        "stock": 3
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1399,
+        "stock": 6
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 1199,
+        "stock": 4
+      }
+    ],
+    "specs": {
+      "Tela": "1,7\" OLED Retina sempre ativa",
+      "Processador": "Apple S7",
+      "Armazenamento": "32 GB",
+      "Sensores": "ECG, oxigenação, frequência cardíaca",
+      "Bateria": "Até 18 horas",
+      "Sistema": "watchOS 10",
+      "Conectividade": "GPS, Wi-Fi, Bluetooth 5.0, NFC",
+      "Resistência": "50 metros (5 ATM)"
+    },
+    "highlights": [
+      "Monitoramento de sono e ECG",
+      "Pulseira inclusa",
+      "Garantia Tech Note de 12 meses",
+      "Bateria com saúde verificada"
+    ],
+    "description": "Seu treino, sua saúde e suas notificações no pulso. O Apple Watch Series 7 tem tela maior, carregamento mais rápido e todos os sensores de saúde que fazem diferença na rotina."
+  },
+  {
+    "id": "galaxy-watch-5",
+    "slug": "samsung-galaxy-watch-5-40mm",
+    "name": "Samsung Galaxy Watch 5 40mm",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "model": "Galaxy Watch 5",
+    "storage": "40 mm",
+    "color": "Grafite",
+    "screen": "1,2\" Super AMOLED",
+    "image": "/products/galaxy-watch5.jpg",
+    "images": ["/products/galaxy-watch5.jpg", "/products/lifestyle-watch.jpg"],
+    "imageFit": "contain",
+    "badge": null,
+    "coupon": "TECH10",
+    "offer": false,
+    "bestSeller": false,
+    "rating": 4.6,
+    "reviewCount": 61,
+    "sold": 210,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 999,
+        "stock": 4
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 849,
+        "stock": 8
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 749,
+        "stock": 6
+      }
+    ],
+    "specs": {
+      "Tela": "1,2\" Super AMOLED",
+      "Processador": "Exynos W920",
+      "Armazenamento": "16 GB",
+      "Sensores": "Frequência cardíaca, oxigenação, composição corporal",
+      "Bateria": "284 mAh (até 40 horas)",
+      "Sistema": "Wear OS 3.5",
+      "Conectividade": "GPS, Wi-Fi, Bluetooth 5.2, NFC",
+      "Resistência": "50 metros (5 ATM)"
+    },
+    "highlights": [
+      "Monitoramento avançado de saúde",
+      "Compatível com Android",
+      "Garantia Tech Note de 12 meses",
+      "Pulseira inclusa"
+    ],
+    "description": "O Galaxy Watch 5 acompanha treinos, sono e indicadores de saúde com precisão. Design confortável, tela AMOLED vibrante e integração completa com o ecossistema Galaxy."
+  },
+  {
+    "id": "airpods-pro-2",
+    "slug": "airpods-pro-2-usb-c",
+    "name": "Apple AirPods Pro 2ª Geração USB-C",
+    "brand": "Apple",
+    "category": "Acessórios",
+    "model": "AirPods Pro 2",
+    "storage": "",
+    "color": "Branco",
+    "screen": "—",
+    "image": "/products/airpods-pro-2.png",
+    "images": ["/products/airpods-pro-2.png", "/products/lifestyle-headphones.jpg"],
+    "imageFit": "contain",
+    "badge": "Mais vendido",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.9,
+    "reviewCount": 305,
+    "sold": 1420,
+    "releaseYear": 2023,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 1199,
+        "stock": 7
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 1049,
+        "stock": 12
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 899,
+        "stock": 9
+      }
+    ],
+    "specs": {
+      "Tipo": "Fone intra-auricular TWS",
+      "Cancelamento de ruído": "Ativo (ANC) e modo transparência",
+      "Áudio": "Áudio Espacial Personalizado",
+      "Bateria": "Até 6 horas (30 horas com estojo)",
+      "Conexão": "Bluetooth 5.3",
+      "Estojo": "USB-C com alto-falante e MagSafe",
+      "Resistência": "IP54",
+      "Compatibilidade": "iPhone, iPad, Mac e Apple TV"
+    },
+    "highlights": [
+      "Cancelamento ativo de ruído",
+      "Estojo com USB-C e MagSafe",
+      "Ponteiras novas inclusas",
+      "Garantia Tech Note de 12 meses"
+    ],
+    "description": "Som imersivo, cancelamento de ruído de referência e integração perfeita com os aparelhos Apple. O AirPods Pro 2 é a escolha certa para quem quer qualidade sonora no dia a dia."
+  },
+  {
+    "id": "jbl-flip-6",
+    "slug": "jbl-flip-6",
+    "name": "JBL Flip 6 Caixa de Som Bluetooth",
+    "brand": "JBL",
+    "category": "Acessórios",
+    "model": "Flip 6",
+    "storage": "",
+    "color": "Preto",
+    "screen": "—",
+    "image": "/products/jbl-flip.jpg",
+    "images": ["/products/jbl-flip.jpg", "/products/lifestyle-headphones.jpg"],
+    "imageFit": "cover",
+    "badge": "Oferta",
+    "coupon": "TECH10",
+    "offer": true,
+    "bestSeller": true,
+    "rating": 4.8,
+    "reviewCount": 120,
+    "sold": 760,
+    "releaseYear": 2022,
+    "conditions": [
+      {
+        "id": "excelente",
+        "label": "Excelente",
+        "description": "Sem marcas de uso. Bateria acima de 90%.",
+        "price": 599,
+        "stock": 6
+      },
+      {
+        "id": "muito-bom",
+        "label": "Muito bom",
+        "description": "Leves sinais de uso. Bateria acima de 85%.",
+        "price": 529,
+        "stock": 10
+      },
+      {
+        "id": "bom",
+        "label": "Bom",
+        "description": "Marcas visíveis de uso. Bateria acima de 80%.",
+        "price": 449,
+        "stock": 8
+      }
+    ],
+    "specs": {
+      "Tipo": "Caixa de som portátil Bluetooth",
+      "Potência": "30 W RMS",
+      "Bateria": "Até 12 horas",
+      "Conexão": "Bluetooth 5.1",
+      "Resistência": "IP67 (água e poeira)",
+      "Extras": "JBL PartyBoost e carregamento USB-C",
+      "Peso": "550 g",
+      "Compatibilidade": "iOS e Android"
+    },
+    "highlights": [
+      "Som potente com JBL Original Pro Sound",
+      "Resistente à água e poeira (IP67)",
+      "12 horas de bateria",
+      "Garantia Tech Note de 12 meses"
+    ],
+    "description": "Leve sua música para qualquer lugar. A JBL Flip 6 tem som potente, 12 horas de bateria e resistência IP67 para piscina, praia e churrasco."
+  }
+]
